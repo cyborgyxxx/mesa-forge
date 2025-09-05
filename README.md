@@ -1,0 +1,3 @@
+# Mesa-Forge
+
+Mesa-Forge is a decentralized creator economy platform that introduces "Living NFTs" - dynamic digital assets that evolve and gain new attributes based on fan engagement and creator milestone achievements. The platform implements a three-layer ecosystem where fans earn Mesa Tokens through meaningful interactions, creators receive perpetual royalties through smart contracts, and NFT holders participate in governance decisions while building genuine ownership that grows more valuable through active community participation.
